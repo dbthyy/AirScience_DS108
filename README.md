@@ -87,8 +87,8 @@ Dữ liệu đã chuẩn hóa và phân loại theo từng hãng hàng không, s
 
 ### 2. Khai phá dữ liệu:
 Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. Đồng thời, nhóm quyết định chia dữ liệu theo hãng bay thay vì theo địa điểm đến hay các yếu tố khác. 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
+    ![alt text](visualization/image-0.png)
+    ![alt text](visualization/image-1.png)
 
 ### 3. Huấn luyện mô hình:
 - Chia dữ liệu:
@@ -102,7 +102,7 @@ Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. �
     - Độ đo: `R2-Score`, `MAE`, `MAPE`
     - Mô hình: `AdaBoost`, `BaggingRegressor`, `GradientBoostingRegressor`, `DecisionTreeRegressor`, `RandomForestRegressor`, `ExtraTreesRegressor`
     - Mô hình lựa chọn: **Gradient Boosting Regressor** với xu hướng tăng giảm dự đoán của các hãng Bamboo Airways, VietNam Airlines, Vietjet Air, Viettravel Airlines khá sát với thực tế
-    ![alt text](image-8.png)
+    ![alt text](visualization/image-2.png)
 
 - Thực nghiệm (`Test_data`):
     
@@ -126,15 +126,15 @@ Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. �
     Dựa vào kết quả của threshold hệ thống sẽ đưa ra khuyến nghị phù hợp:
     - Hình bên trái: Khi giá vé lớn hơn ngưỡng, mô hình sẽ khuyến nghị khách hàng nên chờ (label = 0). 
     - Hình bên phải: Khi giá vé bé hơn ngưỡng, khuyến nghị mô hình đưa ra là nên mua (label = 1).
-    ![alt text](image-6.png)
+    ![alt text](visualization/image-3.png)
 
 ### 4. Chạy web thử nghiệm:
-![alt text](image-4.png)
-![alt text](image-3.png)
+![alt text](visualization/image-4.png)
+![alt text](visualization/image-5.png)
 
 ## Tài Liệu Liên Quan
-- Báo cáo chi tiết: [(paper.pdf)](./paper.pdf)  
-- Slide thuyết trình: [(slides.pdf)](./slides.pdf)
+- Báo cáo chi tiết: [(paper.pdf)](paper.pdf)  
+- Slide thuyết trình: [(slides.pdf)](slides.pdf)
 
 ## Thành viên
 | Họ và tên              | MSSV       |
@@ -142,4 +142,3 @@ Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. �
 | Đinh Bảo Thy           | 23521563   |
 | Võ Ngọc Anh Thy        | 23521565   |
 | Nguyễn Vũ Thùy Trâm    | 23521617   |
-
