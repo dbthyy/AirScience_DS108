@@ -7,18 +7,18 @@ _Đồ án môn học DS108 - Thu thập và tiền xử lý dữ liệu_
 # AIRSCIENCE: Phân Tích Dữ Liệu Ngành Hàng Không
 
 ## Mục lục
-- [1. Tổng quan](#1-tổng-quan)
-- [2. Tính năng](#2-tính-năng)
+- [1. Tổng Quan](#1-tổng-quan)
+- [2. Tính Năng](#2-tính-năng)
 - [3. Bộ Dữ Liệu](#2-bộ-dữ-liệu)
 - [4. Cấu Trúc Dự Án](#4-cấu-trúc-dự-án)
-- [4. Thực thi](#4-thực-thi)
-- [5. Tài Liệu Liên Quan](#5-tài-liệu-liên-quan)
-- [6. Thành viên](#6-thành-viên)
+- [5. Thực Thi](#4-thực-thi)
+- [6. Tài Liệu Liên Quan](#5-tài-liệu-liên-quan)
+- [7. Thành Viên](#6-thành-viên)
 
-## 1. Tổng quan
+## 1. Tổng Quan
 Nhóm nghiên cứu đã tiến hành thu thập và phân tích dữ liệu vé máy bay, sau đó ứng dụng các kỹ thuật học máy để xây dựng một hệ thống dự đoán giá vé theo thời gian. Mục tiêu của hệ thống này là đưa ra khuyến nghị về thời điểm mua vé tối ưu, nhằm hỗ trợ khách hàng đưa ra quyết định thông minh và tiết kiệm chi phí.
 
-## 2. Tính năng
+## 2. Tính Năng
 - Phân tích dữ liệu thông qua khai phá mối quan hệ giữa giá vé với các thuộc tính khác để đưa ra những quy luật ẩn
 - Sử dụng các mô hình học máy, đưa ra khuyến nghị về thời điểm đặt vé tối ưu nhất cho chuyến bay
 - Dữ liệu đầu vào là các thuộc tính cơ bản của một vé máy bay và đầu ra sẽ là giá vé dự đoán để đưa ra được thời điểm đặt vé hợp lý và khuyến nghị nên mua hay chờ.
@@ -80,7 +80,7 @@ Dữ liệu đã chuẩn hóa và phân loại theo từng hãng hàng không, s
 ├── 05_web_demo                       # Demo website tương tác với người dùng
 ├── README.md                         # File mô tả dự án
 ```
-## 5. Thực thi
+## 5. Thực Thi
 ### Thu thập dữ liệu:
 - Sử dụng tool Selenium và kết hợp MicrosoftEdge website.
 - Nhược điểm: chưa hoàn toàn tự động hóa do gặp chặn Captcha của Traveloka.
@@ -136,7 +136,7 @@ Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. �
 - Báo cáo chi tiết: [(paper.pdf)](paper.pdf)  
 - Slide thuyết trình: [(slides.pdf)](slides.pdf)
 
-## 7. Thành viên
+## 7. Thành Viên
 | Họ và tên              | MSSV       |
 |------------------------|------------|
 | Đinh Bảo Thy           | 23521563   |
