@@ -62,22 +62,26 @@ Dữ liệu đã chuẩn hóa và phân loại theo từng hãng hàng không, s
 ## 4. Cấu Trúc Dự Án
 ```bash
 .
-├── Data
-│   ├── Bronze_layer/
-│   │   └── merged_file.csv           
-│   ├── Silver_layer/
-│   │   └── cleaned_file.csv          
-│   ├── Gold_layer/
-│   │   ├── Bamboo_Airways.csv
-│   │   ├── VietJet_Air.csv
-│   │   ├── Vietnam_Airlines.csv
-│   │   └── Vietravel_Airlines.csv   
-│
-├── 01_crawling.ipynb                
-├── 02_preprocessing.ipynb           # Tiền xử lý dữ liệu: làm sạch, định dạng, xử lý thiếu
-├── 03_EDA.ipynb                      # Phân tích dữ liệu khám phá (Exploratory Data Analysis)
-├── 04_modeling.ipynb                 # Huấn luyện mô hình và đánh giá kết quả
-├── 05_web_demo                       # Demo website tương tác với người dùng
+├── Source_code
+    ├── Data
+    │   ├── Bronze_layer/
+    │   │   └── merged_file.csv           
+    │   ├── Silver_layer/
+    │   │   └── cleaned_file.csv          
+    │   ├── Gold_layer/
+    │   │   ├── Bamboo_Airways.csv
+    │   │   ├── VietJet_Air.csv
+    │   │   ├── Vietnam_Airlines.csv
+    │   │   └── Vietravel_Airlines.csv   
+    │
+    ├── 01_crawling.ipynb                
+    ├── 02_preprocessing.ipynb            # Tiền xử lý dữ liệu: làm sạch, định dạng, xử lý thiếu
+    ├── 03_EDA.ipynb                      # Phân tích dữ liệu khám phá (Exploratory Data Analysis)
+    ├── 04_modeling.ipynb                 # Huấn luyện mô hình và đánh giá kết quả
+    ├── 05_web_demo                       # Demo website tương tác với người dùng
+├── paper.pdf
+├── slides.pdf
+├── visualization                     # Phục vụ cho README.md
 ├── README.md                         # File mô tả dự án
 ```
 ## 5. Thực Thi
