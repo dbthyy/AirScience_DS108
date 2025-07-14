@@ -1,0 +1,133 @@
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.825);
+  text-align: left;
+  padding-left: 20px;
+  max-height: 100px;
+  padding-bottom: 0;
+}
+
+header h1 {
+  color: #000000;
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-weight: 600px;
+  font-size: 36px;
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  padding: 5px;
+}
+
+main {
+  padding-top: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.flight-route {
+  font-weight: normal;
+  font-size: 18px;
+  color: #444;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("/static/images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.flight-card {
+  background: white;
+  border-radius: 20px;
+  margin: 19px auto;
+  margin-bottom: 10px;
+  padding: 20px;
+  align-items: center;
+  max-height: 300px;
+  max-width: 1000px;
+  justify-content: space-between;
+  position: relative;
+  display: fixed;
+}
+.flight-info {
+  display: flex;
+  /* gap: 30px; */
+  flex-grow: 1;
+}
+.flight-section {
+  min-width: 100px;
+}
+.flight-brand {
+  font-weight: 600;
+  font-size: 18px;
+  color: #444;
+  display: flex;
+  align-items: center;
+  padding-bottom: 0;
+  gap: 8px;
+}
+
+.flight-time {
+  font-weight: bold;
+  font-size: 20px;
+  color: #007bff;
+}
+.flight-duration {
+  font-size: 14px;
+  color: #007bff;
+  margin-top: 0px;
+}
+
+.flight-date {
+  font-size: 14px;
+  color: #666;
+}
+.flight-airport,
+.flight-baggage {
+  font-size: 14px;
+  color: #444;
+  margin-top: 4px;
+}
+.flight-price {
+  font-size: 25px;
+  font-weight: 700;
+  padding-top: 50px;
+  color: #fcab42;
+  text-align: center;
+}
+
+.flight-prediction {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 16px;
+  color: #333;
+  padding-left: 40px;
+  display: fixed;
+}
+.flight-prediction img {
+  width: 100px;
+  margin-bottom: 4px;
+}
+.flight-prediction p {
+  margin: 0;
+  line-height: 1.2;
+  text-align: center;
+}
+.prediction-link {
+  text-decoration: none;
+  color: #2c7a00;
+}
+
+.prediction-link:hover {
+  text-decoration: underline;
+  color: #1a4d00;
+}

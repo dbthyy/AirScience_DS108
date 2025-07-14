@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/vi.js"></script>
+    <title>3T_DS108</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='index.css') }}"
+    />
+  </head>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+  <body>
+    <header>
+      <h1>AirScience</h1>
+      <h2>
+        Thu thập và Phân tích Dữ liệu vé máy bay - Ứng dụng Học máy trong việc
+        đưa ra quyết định mua vé
+      </h2>
+    </header>
+
+    <section>
+      <div class="container">
+        <form class="search-form" method="POST" action="/">
+          <!-- Điểm khởi hành -->
+          <div class="search-card">
+            <h3>Điểm khởi hành</h3>
+            <input type="text" value="TP.Hồ Chí Minh (SGN)" disabled />
+          </div>
+
+          <!-- Điểm đến -->
+          <div class="search-card">
+            <h3>Điểm đến <span class="required">*</span></h3>
+            <select id="destination-select" name="destination" required>
+              <option value="" selected disabled hidden>Chọn điểm đến</option>
+              <option value="HAN">Hà Nội (HAN)</option>
+              <option value="HPH">Hải Phòng (HPH)</option>
+              <option value="DAD">Đà Nẵng (DAD)</option>
+              <option value="CXR">Nha Trang (CXR)</option>
+              <option value="DLI">Đà Lạt (DLI)</option>
+              <option value="PQC">Phú Quốc (PQC)</option>
+            </select>
+          </div>
+
+          <!-- Ngày khởi hành -->
+          <div class="search-card">
+            <h3>Ngày khởi hành <span class="required">*</span></h3>
+            <input
+              type="text"
+              id="start_day"
+              name="start_day"
+              placeholder="Ngày-Tháng-Năm"
+              required
+            />
+          </div>
+
+          <script>
+            flatpickr("#start_day", {
+              dateFormat: "d-m-Y",
+              altFormat: "d-m-Y",
+              allowInput: true,
+              minDate: "today",
+              maxDate: new Date().fp_incr(365),
+            });
+          </script>
+
+          <!-- Khung giờ khởi hành -->
+          <div class="search-card">
+            <h3>Khung giờ khởi hành<span class="required">*</span></h3>
+            <!--   -->
+            <select id="hour-select" name="start_hour" required>
+              <option value="" selected disabled hidden>Chọn khung giờ</option>
+              <option value="00:00 - 24:00">Cả ngày (00:00 - 24:00)</option>
+              <option value="00:00 - 03:00">Sớm (00:00 - 03:00)</option>
+              <option value="03:00 - 09:00">Sáng (03:00 - 09:00)</option>
+              <option value="09:00 - 15:00">Trưa (09:00 - 15:00)</option>
+              <option value="15:00 - 21:00">Chiều (15:00 - 21:00)</option>
+              <option value="21:00 - 24:00">Tối (21:00 - 24:00)</option>
+            </select>
+          </div>
+
+          <!-- Hãng hàng không -->
+          <div class="search-card">
+            <h3>Hãng hàng không</h3>
+            <div style="display: flex; align-items: center; gap: 8px">
+              <div id="airline-logo"></div>
+              <select id="airline-select" name="brand">
+                <option value="" selected disabled hidden>
+                  Chọn hãng hàng không
+                </option>
+                <option value="Vietnam Airlines">Vietnam Airlines</option>
+                <option value="Bamboo Airways">Bamboo Airways</option>
+                <option value="VietJet Air">VietJet Air</option>
+                <option value="Vietravel Airlines">Vietravel Airlines</option>
+              </select>
+            </div>
+          </div>
+
+          <!-- Hành lý -->
+          <div class="search-card">
+            <h3>Hành lý</h3>
+            <input
+              type="number"
+              id="checked_baggage"
+              name="checked_baggage"
+              placeholder="Số kg Hành lý ký gửi (Checked baggage)"
+              min="0"
+            />
+            <input
+              type="number"
+              id="hand_luggage"
+              name="hand_luggage"
+              placeholder="Số kg Hành lý xách tay (Hand luggage)"
+              min="0"
+            />
+          </div>
+
+          <!-- Nút tìm kiếm -->
+          <button type="submit">Có nên mua bây giờ?</button>
+        </form>
+        {% if message %}
+        <p style="color: green; font-weight: bold">{{ message }}</p>
+        {% endif %}
+      </div>
+    </section>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>

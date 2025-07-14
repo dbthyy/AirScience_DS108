@@ -1,0 +1,135 @@
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(5px);
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  max-height: 100px;
+}
+
+header h1 {
+  color: #000000;
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-weight: 600px;
+  font-size: 36px;
+  margin: 0;
+}
+
+header h2 {
+  color: #050505;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 20px;
+  margin: 0 0 0;
+  padding-top: 0px;
+}
+.hero,
+main,
+section {
+  padding-top: 120px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("/static/images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+div {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.search-form div {
+  margin-top: 10px;
+  padding: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #3c3a3a;
+}
+
+.search-card {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 30px;
+}
+
+.search-card input {
+  margin-bottom: 12px;
+  background-color: #ffffff;
+  color: #000000;
+}
+select.placeholder {
+  color: gray;
+}
+
+select:not(.placeholder) {
+  color: rgb(0, 0, 0);
+}
+
+select,
+input {
+  border: 1px solid #c9c7c7;
+  border-radius: 8px;
+  padding: 14px;
+  width: 100%;
+  font-size: 14px;
+  box-sizing: border-box;
+  line-height: 1.4;
+  transition: border-color 0.3s ease;
+}
+input:focus,
+select:focus {
+  border-color: #0d6efd;
+  outline: #000000 solid 2px;
+}
+.required {
+  color: red;
+  font-weight: bold;
+}
+
+#airline-logo {
+  margin: 0;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 20%;
+  padding-left: 50px;
+}
+
+button {
+  width: 100%;
+  max-width: 600px;
+  padding: 30px;
+  margin: 20px auto;
+  font-size: 16px;
+  background: #0d6efd;
+  color: white;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  display: block;
+}
+button:hover {
+  background: #0b5ed7;
+  align-items: center;
+}

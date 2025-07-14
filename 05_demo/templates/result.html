@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>AirScience</h1>
+        <div class="flight-route">
+            <strong>SGN → {{ user_data.destination }}:</strong>
+            {{ user_data.start_hour }} |
+            {{ user_data.start_day }} |
+            {{ user_data.brand }} |
+            Hàng lý xách tay {{ user_data.hand_luggage }}kg |
+            Hành lý ký gửi {{ user_data.checked_baggage }}kg
+        </div>  
+    </header>
+    
+    <main>
+        {% for flight in flights %}
+        <div class="flight-card">
+            {% set brand = flight['brand'] if 'brand' in flight else 'Hãng bay' %}
+            <div class="flight-brand">
+                <img src="{{ airline_logos.get(brand, '') }}" alt="{{ brand }} logo" style="height: 30px;">
+                <span>{{ brand }}</span>
+            </div>
+            <div class="flight-info">
+
+                <div class="flight-section">
+                    <div class="flight-time">{{ flight['start_time'] }}</div>
+                    <div class="flight-date">{{ flight['start_day'] }}</div>
+                    <div class="flight-airport">TP HCM (SGN) Sân bay Tân Sơn Nhất</div>
+                    <div class="flight-baggage">Hành lý xách tay: {{ flight['hand_luggage'] }}kg</div>
+                </div>
+
+                <div class="flight-section">
+                    <div class="flight-time">⟶</div>
+                    <div class="flight-duration">{{ flight['trip_time'] }}</div>
+                </div>
+
+                <div class="flight-section">
+                    <div class="flight-time">{{ flight['end_time'] }}</div>
+                    <div class="flight-date">{{ flight['end_day'] }}</div>
+                    <div class="flight-airport">{{ flight['destination'] }}</div>
+                    <div class="flight-baggage">Hành lý ký gửi: {{ flight['checked_baggage'] }}kg</div>
+                </div>
+                
+                <div class="flight-price">{{ flight['price'] }}
+                    <span style="font-size: 15px; color: #444;">VND/khách</span>
+                </div>
+
+                <div class="flight-prediction">
+                    <img src="{{ attributes[flight.cheap_pred] }}" alt="Flight_Prediction" style="width: 100px;">
+                    <p>
+                        {% if flight.cheap_pred == 1 %}
+                            <strong><a href="/buy-now" class="prediction-link">Mua ngay</a></strong>
+                        {% else %}
+                            <strong>Nên chờ</strong>
+                        {% endif %}
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,6375 @@
+id,price,destination,hand_luggage,checked_baggage,trip_mins,is_holiday,days_left
+PQC0002,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,1
+PQC0003,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,2
+PQC0004,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,3
+PQC0005,782244,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,4
+PQC0006,754708,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,6
+PQC0007,1222830,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,8
+PQC0008,829158,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,10
+PQC0003,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,1
+PQC0004,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,2
+PQC0005,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,3
+PQC0006,754708,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,5
+PQC0007,1222830,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,7
+PQC0008,829158,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,9
+PQC0004,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,1
+PQC0005,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,2
+PQC0006,951543,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,4
+PQC0007,1222830,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,6
+PQC0008,829158,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,8
+PQC0005,1136413,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,1
+PQC0006,806903,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,3
+PQC0007,1117555,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,5
+PQC0008,806903,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,7
+PQC0006,826753,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,2
+PQC0007,1161225,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,4
+PQC0008,826753,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,6
+PQC0006,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,1
+PQC0007,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,3
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,5
+PQC0009,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,14
+PQC0010,1173625,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,16
+PQC0011,1517000,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,18
+PQC0012,1173625,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,20
+PQC0007,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,2
+PQC0008,782244,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,4
+PQC0007,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,1
+PQC0008,782244,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,3
+PQC0009,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,12
+PQC0010,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,14
+PQC0011,1427825,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,16
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,18
+PQC0008,1299147,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,2
+PQC0001,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,21
+PQC0002,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,22
+PQC0003,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,23
+PQC0004,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,24
+PQC0005,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,25
+PQC0006,1173625,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,27
+PQC0007,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,29
+PQC0009,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,11
+PQC0010,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,13
+PQC0011,1427825,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,15
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,17
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,18
+PQC0008,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,1
+PQC0001,1707271,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,3,20
+PQC0002,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,21
+PQC0003,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,22
+PQC0004,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,23
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,24
+PQC0006,1173625,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,26
+PQC0007,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,28
+PQC0008,1173625,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,30
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,10
+PQC0010,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,12
+PQC0011,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,14
+PQC0012,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,16
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,17
+PQC0001,1707271,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,3,19
+PQC0002,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,9
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,11
+PQC0011,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,13
+PQC0012,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,15
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,16
+PQC0001,1707271,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,3,18
+PQC0002,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,19
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,8
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,10
+PQC0011,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,12
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,14
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,15
+PQC0001,1715850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,3,17
+PQC0002,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,18
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,19
+PQC0004,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,7
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,9
+PQC0011,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,11
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,13
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,14
+PQC0001,1826550,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,16
+PQC0002,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,17
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,18
+PQC0004,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,19
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,6
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,8
+PQC0011,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,10
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,12
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,13
+PQC0014,1944425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,15
+PQC0002,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,16
+PQC0003,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,17
+PQC0004,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,18
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,19
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,5
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,7
+PQC0011,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,9
+PQC0012,1043700,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,11
+PQC0013,1043700,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,12
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,14
+PQC0002,1616425,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,15
+PQC0003,1251525,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,16
+PQC0004,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,17
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,18
+PQC0006,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,4
+PQC0010,782244,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,6
+PQC0011,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,8
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,10
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,11
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,13
+PQC0002,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,14
+PQC0003,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,15
+PQC0004,988314,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,16
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,17
+PQC0006,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,19
+PQC0009,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,3
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,5
+PQC0011,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,7
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,9
+PQC0013,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,10
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,12
+PQC0002,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,13
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,14
+PQC0004,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,15
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,16
+PQC0006,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,18
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,20
+PQC0009,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,2
+PQC0010,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,4
+PQC0011,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,6
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,8
+PQC0013,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,9
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,11
+PQC0002,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,12
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,13
+PQC0004,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,14
+PQC0005,874325,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,15
+PQC0006,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,17
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,19
+PQC0009,1271610,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,1
+PQC0010,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,3
+PQC0011,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,5
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,7
+PQC0013,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,8
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,10
+PQC0002,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,11
+PQC0003,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,12
+PQC0004,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,13
+PQC0005,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,14
+PQC0006,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,16
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,18
+PQC0008,1018850,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,20
+PQC0010,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,2
+PQC0011,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,4
+PQC0012,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,6
+PQC0013,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,7
+PQC0001,1849563,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,9
+PQC0002,1588650,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,10
+PQC0003,1001343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,11
+PQC0004,859302,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,12
+PQC0005,859302,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,13
+PQC0006,975415,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,15
+PQC0007,1403291,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,17
+PQC0008,968099,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,19
+PQC0010,1153459,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,1
+PQC0011,1178643,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,3
+PQC0012,968099,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,5
+PQC0013,968099,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,6
+PQC0001,1911014,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,8
+PQC0002,1686367,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,9
+PQC0003,1001343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,10
+PQC0004,1316655,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,11
+PQC0005,1153459,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,12
+PQC0006,839154,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,14
+PQC0007,1393000,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,16
+PQC0008,839154,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,18
+PQC0011,1403291,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,2
+PQC0012,1109134,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,4
+PQC0013,1244605,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,5
+PQC0001,1849563,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,7
+PQC0002,1588650,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,8
+PQC0003,1001343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,9
+PQC0004,1153459,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,10
+PQC0005,859302,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,11
+PQC0006,839154,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,13
+PQC0007,1403291,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,15
+PQC0008,833000,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,17
+PQC0011,1178643,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,1
+PQC0012,968099,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,3
+PQC0013,968099,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,4
+PQC0014,1911014,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,6
+PQC0001,1872491,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,6
+PQC0002,1762344,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,7
+PQC0003,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,8
+PQC0004,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,9
+PQC0005,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,10
+PQC0006,989609,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,12
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,14
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,16
+PQC0014,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,5
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,5
+PQC0002,1762344,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,6
+PQC0003,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,7
+PQC0004,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,8
+PQC0005,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,9
+PQC0006,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,11
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,13
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,15
+PQC0012,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,1
+PQC0013,1741250,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,2
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,4
+PQC0002,1762344,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,5
+PQC0003,1245267,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,6
+PQC0004,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,7
+PQC0005,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,8
+PQC0006,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,10
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,12
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,14
+PQC0013,1707271,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,1
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,3
+PQC0002,1608343,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,4
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,5
+PQC0004,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,6
+PQC0005,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,7
+PQC0006,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,9
+PQC0007,1420686,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,11
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,13
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,2
+PQC0002,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,3
+PQC0003,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,4
+PQC0004,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,5
+PQC0005,1013756,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,6
+PQC0006,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,8
+PQC0007,1332977,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,10
+PQC0008,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,12
+PQC0001,1934703,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,20,60,3,1
+PQC0002,1190020,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,2
+PQC0003,1156190,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,3
+PQC0004,1167757,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,2,4
+PQC0005,869953,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,5
+PQC0006,951543,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,0,7
+PQC0007,1222830,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,9
+PQC0008,951543,"Phú Quốc (PQC)
+Sân bay Phú Quốc",7,0,60,1,11
+DAD0002,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0014,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0003,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0015,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0016,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0004,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0017,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0018,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,6
+DAD0020,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0006,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0007,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0022,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0003,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0015,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0016,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0004,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0017,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0005,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0018,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,5
+DAD0020,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0006,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0007,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0022,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0004,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0016,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0017,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0005,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0018,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,4
+DAD0020,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0006,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0007,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0017,1565173,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0005,1404388,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0018,1565173,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0019,2369098,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,3
+DAD0006,1725958,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0020,1725958,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0021,1886743,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0007,1404388,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0022,1565173,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0023,1210850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0005,1404388,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0018,1565173,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0019,2208313,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,2
+DAD0006,1725958,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0020,1725958,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0021,1886743,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0007,1404388,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0022,1565173,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0023,1210850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0019,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,1
+DAD0006,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0007,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0032,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0033,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0024,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0009,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0034,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0025,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0026,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0010,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0027,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0028,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,20
+DAD0006,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0007,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0021,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0007,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0032,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0033,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0009,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0034,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0025,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0026,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0010,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0027,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0028,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0022,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0007,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0001,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,21
+DAD0013,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,21
+DAD0002,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,22
+DAD0014,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,22
+DAD0003,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,23
+DAD0015,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,23
+DAD0016,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,24
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,24
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,25
+DAD0005,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,26
+DAD0018,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,26
+DAD0019,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,27
+DAD0006,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,28
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,28
+DAD0021,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,29
+DAD0007,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,30
+DAD0022,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,30
+DAD0023,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,31
+DAD0032,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0033,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0025,1770105,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0026,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0010,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0027,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0028,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0029,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0030,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,19
+DAD0011,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,20
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,20
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0001,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,20
+DAD0013,2280625,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,20
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,21
+DAD0014,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,21
+DAD0003,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,22
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,22
+DAD0016,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,23
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,23
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,24
+DAD0005,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,25
+DAD0018,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,25
+DAD0019,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,26
+DAD0006,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,27
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,27
+DAD0021,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,28
+DAD0007,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,29
+DAD0022,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,29
+DAD0023,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,30
+DAD0032,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0033,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0009,1419139,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0025,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0026,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0010,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0027,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0028,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0029,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0030,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0011,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,19
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,19
+DAD0001,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,19
+DAD0013,2280625,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,19
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,20
+DAD0014,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,20
+DAD0032,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0033,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0025,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0026,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0010,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0027,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0028,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0029,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0030,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,18
+DAD0001,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,18
+DAD0013,2280625,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,18
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,19
+DAD0014,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,19
+DAD0003,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,20
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,20
+DAD0032,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0033,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0025,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0026,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0027,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0010,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0028,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0029,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0030,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,17
+DAD0001,1948525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,17
+DAD0013,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,17
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0014,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0003,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,19
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,19
+DAD0016,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,20
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,20
+DAD0032,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0024,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0009,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0025,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0010,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0027,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0028,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0029,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0030,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,16
+DAD0001,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,16
+DAD0013,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,16
+DAD0002,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0014,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0003,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0016,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,19
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,19
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,20
+DAD0032,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0008,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0024,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0009,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0025,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0010,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0027,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0028,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0029,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0030,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0031,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,15
+DAD0001,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,15
+DAD0013,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,15
+DAD0002,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0014,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0003,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0016,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,18
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,18
+DAD0005,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,20
+DAD0018,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,20
+DAD0032,1485750,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0008,1225350,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0033,1225350,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0024,1338750,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0009,1338750,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0025,1655850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0034,1655850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0026,1655850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0010,1655850,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0027,1825950,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0028,1485750,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0029,1485750,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0031,2615550,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,14
+DAD0001,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,14
+DAD0013,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,14
+DAD0002,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0014,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0003,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0015,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0016,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,17
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,17
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0005,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,19
+DAD0018,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,19
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,20
+DAD0032,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0008,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0024,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0025,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0034,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0010,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0027,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0028,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0029,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0030,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0001,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,13
+DAD0013,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,13
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0014,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0003,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0015,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0016,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,16
+DAD0004,2446675,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,16
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0005,1196175,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0018,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,19
+DAD0006,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,20
+DAD0020,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,20
+DAD0032,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0008,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0025,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0010,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0027,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0028,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,9
+DAD0029,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0030,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0001,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,12
+DAD0013,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,12
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,13
+DAD0014,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,13
+DAD0003,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0015,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0016,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,15
+DAD0004,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,15
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0018,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,18
+DAD0006,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,19
+DAD0020,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,19
+DAD0021,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,20
+DAD0032,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0008,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0034,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0025,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0010,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0027,1730130,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0028,1568956,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,8
+DAD0029,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0030,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0001,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,11
+DAD0013,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,11
+DAD0002,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0014,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0003,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,13
+DAD0015,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,13
+DAD0016,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,14
+DAD0004,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,14
+DAD0017,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0018,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0019,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,17
+DAD0006,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,18
+DAD0021,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0007,1616425,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,20
+DAD0022,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,20
+DAD0032,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0033,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0024,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0025,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0034,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0010,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0027,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0028,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,7
+DAD0029,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0030,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,9
+DAD0001,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,10
+DAD0013,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,10
+DAD0002,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0014,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0003,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0015,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0016,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,13
+DAD0004,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,13
+DAD0017,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0005,1196175,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0018,1306875,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0019,2553275,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,16
+DAD0006,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,17
+DAD0021,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0007,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0022,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0023,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,20
+DAD0008,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0033,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0024,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0009,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0025,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0034,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0026,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0010,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0027,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0028,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,6
+DAD0029,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0030,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,8
+DAD0001,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,9
+DAD0013,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,9
+DAD0002,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0014,1890641,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0003,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0015,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0016,1915044,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,12
+DAD0004,2404634,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,12
+DAD0017,1915044,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0005,1128274,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0018,1229013,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0019,2528365,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,15
+DAD0006,1425453,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0020,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,16
+DAD0021,2078240,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0007,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0022,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0023,1436225,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,19
+DAD0012,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0025,1729525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0009,1890641,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0035,2051759,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0026,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0010,1890641,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0027,2212876,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,1,4
+DAD0028,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,5
+DAD0029,1425453,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0030,1890641,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0001,1890237,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,8
+DAD0013,1915044,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,8
+DAD0002,1729155,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,9
+DAD0014,1890237,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,9
+DAD0015,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0003,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0016,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,11
+DAD0004,2404634,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,11
+DAD0017,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0018,1229013,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0005,1406989,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0006,1568072,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0020,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,15
+DAD0021,2078240,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0007,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0022,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0023,1415000,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,18
+DAD0025,1729525,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0009,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0035,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0026,1915044,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0010,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0027,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0028,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,4
+DAD0029,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0030,2078240,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0001,1729155,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,7
+DAD0013,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,7
+DAD0002,1425453,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,8
+DAD0014,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,8
+DAD0003,1425453,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,9
+DAD0015,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,9
+DAD0016,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,10
+DAD0004,2404634,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,10
+DAD0017,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0005,1128274,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0018,1229013,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0019,2509402,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,13
+DAD0006,1568072,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0020,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,14
+DAD0021,2078240,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0007,1577000,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0022,1739000,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0023,1415000,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,17
+DAD0026,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0010,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0027,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0028,1588650,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,3
+DAD0029,1425453,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,4
+DAD0030,1751847,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0001,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,6
+DAD0013,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,6
+DAD0002,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0014,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0003,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,8
+DAD0015,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,8
+DAD0016,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,9
+DAD0004,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,9
+DAD0017,1728178,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0005,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0018,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0006,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0020,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,13
+DAD0021,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,1,14
+DAD0022,1782475,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0007,2114575,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0023,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,16
+DAD0010,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0027,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0028,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,2
+DAD0029,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,3
+DAD0030,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0001,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,5
+DAD0013,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,5
+DAD0002,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0014,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0003,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0015,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0004,2310390,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,8
+DAD0016,2310390,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,8
+DAD0017,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0005,1267065,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0018,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0006,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,12
+DAD0021,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,1,13
+DAD0007,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0022,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0023,1450375,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,15
+DAD0028,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,1
+DAD0029,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,2
+DAD0030,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0031,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,4
+DAD0001,1760155,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,4
+DAD0013,1760155,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,4
+DAD0002,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0014,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0003,1406396,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0015,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0016,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,7
+DAD0004,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,7
+DAD0017,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0018,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,10
+DAD0020,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,11
+DAD0006,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,11
+DAD0021,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,1,12
+DAD0007,1728427,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0022,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0023,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,14
+DAD0029,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,1
+DAD0030,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0031,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,3
+DAD0001,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,3
+DAD0013,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,3
+DAD0002,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0014,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0003,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0015,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0016,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,6
+DAD0004,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,6
+DAD0017,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0018,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,9
+DAD0020,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0006,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,10
+DAD0021,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0007,1535285,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0022,1701450,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,13
+DAD0030,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,1
+DAD0011,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,2
+DAD0001,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,2
+DAD0013,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,2
+DAD0002,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0014,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0003,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0015,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0016,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,5
+DAD0004,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,5
+DAD0017,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0005,1190194,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0018,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,7
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,8
+DAD0020,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0006,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,9
+DAD0021,2104002,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0007,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+DAD0023,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,12
+DAD0011,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,3,1
+DAD0001,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,1
+DAD0013,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,3,1
+DAD0014,1300341,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0002,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,2
+DAD0015,1438770,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0003,1601950,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,3
+DAD0016,1938782,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,2,4
+DAD0004,2434442,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,2,4
+DAD0017,1773563,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,5
+DAD0005,1441755,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0018,1443123,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,6
+DAD0019,2540509,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,7
+DAD0020,1772095,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,0,8
+DAD0006,2373592,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,0,8
+DAD0021,2269222,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,20,85,1,9
+DAD0007,1568142,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0022,1608343,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,10
+DAD0023,1407052,"Đà Nẵng (DAD)
+Sân bay Đà Nẵng",7,0,85,1,11
+HAN0106,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0098,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0026,3716055,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0001,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0133,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0132,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0099,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0027,3375607,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0064,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0107,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0122,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0100,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0020,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0123,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0004,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0031,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0065,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0023,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0053,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0124,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0021,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0048,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0102,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0067,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0115,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0034,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0068,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0096,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0125,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0007,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0024,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0104,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0116,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0008,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0035,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0069,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0056,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0105,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0117,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0001,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0132,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0133,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0027,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0064,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0099,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0100,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0107,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0122,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0028,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0123,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0065,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0053,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0004,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0023,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0031,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0124,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0021,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0048,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0102,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0115,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0067,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0034,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0068,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0096,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0125,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0007,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0024,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0104,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0116,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0008,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0035,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0069,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0056,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0010,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0037,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0071,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0105,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0117,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0122,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0107,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,1
+HAN0065,2784447,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0023,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0031,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0053,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0123,3043281,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,2
+HAN0004,3375781,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,2
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0102,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0124,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0048,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0021,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0115,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0067,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0103,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0096,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0125,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0007,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0024,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0034,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0068,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0116,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0008,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0035,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0069,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0104,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0056,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0010,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0037,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0071,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0105,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0117,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0123,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0081,3034073,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0004,3365568,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0031,3365568,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0049,3365568,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,135,0,1
+HAN0023,3705003,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0054,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0124,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0048,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0102,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0021,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0115,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0006,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0033,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0067,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0103,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0125,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0007,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0024,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0034,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0068,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0096,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0116,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0008,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0035,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0069,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0104,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0070,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0126,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0009,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0036,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0056,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0124,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0048,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0102,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0050,3034073,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,135,0,1
+HAN0021,3705003,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0103,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0115,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0082,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0006,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0033,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0007,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0024,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0034,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0068,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0096,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0125,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0116,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0008,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0035,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0069,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0104,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0070,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0126,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0009,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0036,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0056,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0117,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0010,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0037,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0071,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0105,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0103,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0115,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0082,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0006,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0033,2754160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0038,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0014,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0041,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0059,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0075,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0130,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0015,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0042,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0076,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0131,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0111,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0016,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0077,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0043,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0060,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0017,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0044,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0078,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0108,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0007,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0083,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0096,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0125,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0024,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0034,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0120,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0008,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0047,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0095,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0104,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0056,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0105,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0117,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0013,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0040,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0014,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0041,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0059,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0075,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0130,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0015,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0076,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0131,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0042,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0016,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0077,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0043,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0060,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0111,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0017,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0044,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0078,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0108,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0018,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0061,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0079,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0112,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0120,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0047,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0104,3042342,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,1
+HAN0008,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,1
+HAN0095,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,1
+HAN0126,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0084,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0051,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,135,1,2
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0010,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0105,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0121,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0014,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0041,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0059,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0075,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0130,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0015,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0042,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0076,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0131,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0111,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0016,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0043,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0060,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0077,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0044,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0078,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0108,2388000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0017,2581863,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0061,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0112,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0018,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0079,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0019,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,20
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,20
+HAN0062,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,20
+HAN0080,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,20
+HAN0113,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,20
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0084,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0051,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,135,1,1
+HAN0009,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0036,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0010,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0121,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0037,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0085,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0105,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0015,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0076,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0131,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0042,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0016,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0111,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0043,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0060,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0077,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0017,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0044,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0108,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0078,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0018,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0061,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0079,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0112,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0019,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,19
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,19
+HAN0062,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,19
+HAN0080,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,19
+HAN0113,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,19
+HAN0109,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,20
+HAN0101,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,20
+HAN0029,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,20
+HAN0003,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,20
+HAN0022,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,20
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,20
+HAN0030,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,20
+HAN0052,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,20
+HAN0097,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,20
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0016,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0060,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0077,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0111,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0043,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0017,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0108,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0044,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0078,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0018,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0061,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0112,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0079,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0019,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0062,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0080,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0113,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0109,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,19
+HAN0101,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,19
+HAN0029,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,19
+HAN0003,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,19
+HAN0022,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,19
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,19
+HAN0030,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,19
+HAN0052,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,19
+HAN0097,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,19
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,19
+HAN0026,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0098,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0106,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0039,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0016,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0017,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0108,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0044,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0078,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0018,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0112,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0061,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0079,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0019,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,17
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,17
+HAN0062,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,17
+HAN0080,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,17
+HAN0113,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,17
+HAN0109,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,18
+HAN0101,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,18
+HAN0029,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,18
+HAN0003,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,18
+HAN0022,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,18
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,18
+HAN0030,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,18
+HAN0052,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,18
+HAN0097,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,18
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,18
+HAN0026,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0106,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0098,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0001,3802890,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0027,3802890,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0064,3802890,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0099,3802890,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0012,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0014,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0108,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0018,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0112,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0045,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0061,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0079,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0019,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,16
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,16
+HAN0080,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,16
+HAN0113,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,16
+HAN0062,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,16
+HAN0101,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,17
+HAN0109,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,17
+HAN0029,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,17
+HAN0003,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,17
+HAN0022,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,17
+HAN0097,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,17
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,17
+HAN0025,3405815,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,17
+HAN0030,3405815,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,17
+HAN0052,3405815,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,17
+HAN0106,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,18
+HAN0098,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0026,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0132,3749309,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0001,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0027,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0064,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0099,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0002,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0028,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0100,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0107,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,20
+HAN0057,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0072,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0073,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0074,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0040,2582232,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0076,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0016,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0108,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0061,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0079,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0019,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,15
+HAN0046,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,15
+HAN0062,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0080,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0113,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,16
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,16
+HAN0003,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0029,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0022,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0030,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0097,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0110,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0025,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0052,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,16
+HAN0106,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0026,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0098,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0001,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0027,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0064,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0099,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0002,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0028,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0100,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0107,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,19
+HAN0072,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0073,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0108,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0061,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0079,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,14
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,14
+HAN0080,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,14
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,14
+HAN0062,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,15
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,15
+HAN0003,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0029,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0022,3801895,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0025,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0110,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0030,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0052,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0097,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,15
+HAN0098,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0106,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0026,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0002,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0020,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0028,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0100,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0107,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,18
+HAN0005,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0054,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0011,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0038,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0014,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0042,2619835,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0016,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0043,2619835,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0108,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0017,2619835,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0044,2619835,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0078,2619835,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,13
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,13
+HAN0080,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,13
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,13
+HAN0062,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0029,2851670,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,14
+HAN0101,2851670,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,14
+HAN0109,2851670,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,14
+HAN0003,3112360,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0022,3794930,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0025,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0030,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0052,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,14
+HAN0106,3133425,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0026,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0098,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0099,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0001,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0027,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0064,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0132,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0020,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0002,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0028,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0100,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0107,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,17
+HAN0004,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0023,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0031,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0053,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0065,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0123,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0005,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0054,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0006,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0103,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0115,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0033,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0067,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0038,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0011,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0130,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0014,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0059,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0015,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0042,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0076,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0043,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0108,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0061,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0079,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,12
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,12
+HAN0080,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,12
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,12
+HAN0062,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,13
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,13
+HAN0003,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0029,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0022,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0025,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0030,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0110,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0052,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,13
+HAN0098,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0106,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0026,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0001,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0027,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0064,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0099,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0132,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0020,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0107,3475775,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0002,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0028,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0100,3826325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,16
+HAN0004,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0023,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0053,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0065,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0123,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0031,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0005,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0054,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0006,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0033,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0103,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0115,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0067,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0007,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0024,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0034,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0055,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0068,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0125,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,20
+HAN0127,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0057,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0072,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0038,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0011,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0058,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0073,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0075,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0130,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0131,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0042,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0016,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0077,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0108,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0061,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0079,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,11
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,11
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,11
+HAN0062,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0080,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0029,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,12
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,12
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,12
+HAN0003,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0022,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0025,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0030,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0052,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0110,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,12
+HAN0026,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0098,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0106,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0001,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0027,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0099,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0020,3714668,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0002,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,15
+HAN0004,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0023,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0031,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0053,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0065,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0123,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0005,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0054,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0115,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0033,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0067,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0007,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0024,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0034,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0055,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0068,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0125,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,19
+HAN0035,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0104,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0116,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0008,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0069,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0127,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0086,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0038,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0057,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0011,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0128,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0058,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0073,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0129,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0013,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0130,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0075,2332489,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0131,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0042,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0111,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0077,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0108,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,8
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0061,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0079,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0062,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0080,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0029,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,11
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,11
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,11
+HAN0003,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0022,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0110,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0052,3714521,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0025,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0030,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,11
+HAN0106,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0026,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0098,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0001,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0027,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0099,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0002,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,14
+HAN0004,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0023,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0031,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0065,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0123,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0053,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0005,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0054,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0006,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0103,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0115,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0033,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0067,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0007,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0024,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0034,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0055,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0068,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0125,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,18
+HAN0035,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0069,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0104,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0116,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0008,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0009,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0056,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0070,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0127,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0086,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0038,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0057,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0011,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0128,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0058,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0073,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0012,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0039,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0129,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0013,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0074,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0130,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0014,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0041,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0131,2332397,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0042,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0077,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0111,2332397,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0060,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0108,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,7
+HAN0018,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0079,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0045,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0061,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0019,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0046,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0062,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0080,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0113,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0003,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,10
+HAN0029,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,10
+HAN0101,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,10
+HAN0109,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,10
+HAN0022,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0110,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0025,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0030,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0052,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,10
+HAN0106,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0026,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0098,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0001,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0027,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0099,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0122,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0020,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,13
+HAN0004,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0023,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0031,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0065,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0123,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0053,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0005,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0124,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0054,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0066,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0032,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0006,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0103,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0115,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0033,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0067,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0007,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0024,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0034,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0055,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0068,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0125,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,17
+HAN0035,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0069,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0104,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0116,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0008,2635275,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0126,1981325,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0009,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0056,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0070,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0010,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0037,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0071,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0105,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0117,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,20
+HAN0128,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0087,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0063,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,145,0,1
+HAN0012,2332327,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0039,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0013,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0074,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0129,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0040,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0041,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0014,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0130,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0059,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0075,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0015,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0042,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0076,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0131,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0016,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0077,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0111,2332327,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0043,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0060,2558195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0017,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0044,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0078,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0108,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,6
+HAN0045,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0079,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0112,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0018,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0061,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0019,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,8
+HAN0046,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,8
+HAN0062,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,8
+HAN0080,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,8
+HAN0113,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,8
+HAN0022,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,9
+HAN0029,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,9
+HAN0101,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,9
+HAN0109,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,9
+HAN0003,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,9
+HAN0025,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,9
+HAN0097,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,9
+HAN0110,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,9
+HAN0030,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,9
+HAN0052,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,9
+HAN0026,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0098,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0106,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0001,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0132,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0027,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0064,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0099,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0133,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0002,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0122,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0107,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0020,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0028,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0100,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,12
+HAN0031,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0065,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0123,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0004,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0023,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0053,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0124,1947280,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0005,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0032,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0054,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0066,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0006,1961995,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0103,1961995,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0115,1961995,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0033,2148755,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0067,2148755,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0007,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0024,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0034,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0055,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0068,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0125,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,16
+HAN0035,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0069,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0104,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0116,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0008,2609565,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0126,1961995,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0009,2148755,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0056,2148755,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0070,2148755,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0010,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0037,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0071,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0105,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0117,2379160,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,19
+HAN0129,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0040,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0088,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0013,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0130,1947280,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0014,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0059,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0089,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0041,2783070,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0015,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0042,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0076,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0131,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0016,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0111,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0043,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0060,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0077,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0017,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0044,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0078,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0108,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,5
+HAN0079,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0112,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0018,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0045,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0061,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0019,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,7
+HAN0046,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,7
+HAN0062,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,7
+HAN0080,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,7
+HAN0113,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,7
+HAN0119,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0003,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,8
+HAN0022,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,8
+HAN0029,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,8
+HAN0101,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,8
+HAN0109,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,8
+HAN0097,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,8
+HAN0025,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,8
+HAN0030,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,8
+HAN0052,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,8
+HAN0110,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,8
+HAN0026,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0098,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0106,3713736,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0001,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0133,3373499,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,10
+HAN0122,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0002,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,11
+HAN0065,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0004,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0031,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0053,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0123,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0023,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,12
+HAN0124,1947280,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0005,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0032,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0054,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0066,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0103,1947280,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0006,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0067,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0115,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0007,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0024,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0034,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0055,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0068,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0125,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,15
+HAN0008,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0069,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0104,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0116,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0035,2571000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0126,1933000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0009,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0056,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0070,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0036,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0010,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0037,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0071,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0105,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0117,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,18
+HAN0130,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0089,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0059,3713736,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,1
+HAN0131,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0090,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0015,2817663,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0042,3373499,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,2
+HAN0043,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0060,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0111,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0077,2782565,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0017,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0078,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0044,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0108,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,4
+HAN0018,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0112,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0118,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0045,2557731,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0061,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0079,2782565,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0119,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0019,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0062,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0113,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0046,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0080,2782565,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0003,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,7
+HAN0029,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,7
+HAN0109,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,7
+HAN0097,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,7
+HAN0110,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,7
+HAN0025,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,7
+HAN0052,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,7
+HAN0030,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,7
+HAN0106,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0026,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0098,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0001,3079584,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0132,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0133,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,9
+HAN0027,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0064,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0099,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0002,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0122,3416051,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0020,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0028,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0100,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0107,3760578,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,10
+HAN0065,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0123,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0004,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0023,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0031,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0053,2776023,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0124,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0005,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0032,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0066,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0054,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0006,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0103,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0115,1918503,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0033,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0067,2101123,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0007,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0024,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0034,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0055,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0068,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0125,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,14
+HAN0008,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0035,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0069,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0104,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0116,2344000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0009,1933000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0126,1933000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0036,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0056,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0070,2117000,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0010,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0037,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0071,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0105,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0117,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,17
+HAN0131,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0015,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0042,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0090,2589993,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0016,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0043,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0060,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0077,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0111,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0017,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0044,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0078,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0108,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,3
+HAN0018,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0045,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0061,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0079,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0112,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0118,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,4
+HAN0119,2132639,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0019,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0046,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0062,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0080,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0113,2361316,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0022,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,6
+HAN0029,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,6
+HAN0101,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,6
+HAN0109,2326420,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,6
+HAN0003,2551718,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,6
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,6
+HAN0110,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,6
+HAN0097,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,6
+HAN0030,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,6
+HAN0052,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,6
+HAN0098,3715290,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0026,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0106,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0001,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0133,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0099,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0132,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0122,3374912,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0002,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0020,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,9
+HAN0123,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0023,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0065,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0004,3042497,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,10
+HAN0031,3374912,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,10
+HAN0053,3715290,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,10
+HAN0032,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0124,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0066,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0005,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0115,2106957,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0103,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0024,2558802,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0007,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0055,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0068,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0125,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0034,2783730,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,13
+HAN0069,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0104,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0035,2783730,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0008,3042497,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,14
+HAN0116,3374912,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,14
+HAN0036,2169925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0009,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0056,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0070,2866925,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0010,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0037,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0071,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0105,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0117,2402600,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,16
+HAN0016,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0091,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0111,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0043,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0060,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0108,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0017,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0044,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0092,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,2
+HAN0061,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0118,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0112,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0018,2783730,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,3
+HAN0045,3042497,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,3
+HAN0079,3042497,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,3
+HAN0019,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0062,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0080,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0119,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0046,2783730,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0113,3042497,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0109,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0003,2558802,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0029,2558802,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0022,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0101,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0110,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,5
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,5
+HAN0052,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,5
+HAN0097,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,5
+HAN0030,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,5
+HAN0026,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0106,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0098,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0001,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0133,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0132,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0027,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0099,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0122,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0002,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0020,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,8
+HAN0031,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0053,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0065,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0123,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0023,3114350,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,9
+HAN0004,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,9
+HAN0005,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0124,2332438,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0032,2385015,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0066,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0033,2332438,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0006,2385015,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0115,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0024,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0034,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0068,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0125,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,12
+HAN0007,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,0,12
+HAN0008,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0104,2611875,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0069,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0035,2845700,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0116,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,1,13
+HAN0009,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0126,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0036,2611875,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0056,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0105,2558318,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0117,2558318,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,15
+HAN0017,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0044,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0092,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0108,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,1
+HAN0118,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0018,1957165,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0061,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0112,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0045,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0093,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,2
+HAN0019,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0046,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0080,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0119,2150195,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0062,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0113,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0003,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0109,2385015,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0022,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0101,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0029,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0030,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0097,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0110,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,4
+HAN0052,3041874,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,4
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,4
+HAN0026,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0098,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0106,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0001,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0132,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0133,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0027,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0099,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0122,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0002,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0107,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,7
+HAN0123,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0004,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0023,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0031,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0053,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0065,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0124,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0005,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0032,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0054,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0066,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0115,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0067,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0007,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0024,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0068,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0034,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0055,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0125,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,11
+HAN0069,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0104,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0008,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0035,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0116,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0009,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0056,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0070,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0105,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0117,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,14
+HAN0118,1730396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0112,1773563,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0018,1923436,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0061,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0093,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0045,2106525,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,1
+HAN0019,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0119,2106525,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0046,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0062,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0094,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0114,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0003,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0022,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0029,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0101,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0109,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0030,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0097,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0110,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0052,2783233,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,3
+HAN0025,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,3
+HAN0106,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0098,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0026,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0001,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0132,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0133,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,5
+HAN0027,3714627,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0099,3714627,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0122,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,6
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0020,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0100,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,6
+HAN0123,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0004,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0023,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0031,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0065,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0053,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0124,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0005,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0032,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0066,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0067,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0115,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0024,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0007,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0034,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0068,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0096,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0125,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,10
+HAN0035,2490485,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0069,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0104,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0116,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0008,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0009,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0056,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0117,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0071,2558345,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0105,2558345,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0037,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,13
+HAN0114,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0019,2106580,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0046,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0094,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0119,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0062,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,1
+HAN0003,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0101,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0109,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0022,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0029,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0097,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0025,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0030,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0052,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0110,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,2
+HAN0098,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0106,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0026,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0001,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0132,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0133,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,4
+HAN0027,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0099,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0122,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0100,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0107,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,5
+HAN0004,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0053,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0065,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0123,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0023,2559366,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0031,2559366,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0066,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0124,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0005,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0032,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0067,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0103,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0115,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0033,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0034,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0068,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0096,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0125,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0007,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0024,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,9
+HAN0116,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0104,2559366,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0008,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0035,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0069,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0056,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0070,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0126,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0036,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0009,2333393,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0010,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0037,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0071,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0105,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0117,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,12
+HAN0003,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0022,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0029,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0109,1971418,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0101,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0110,2558657,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0097,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0030,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0052,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,3,1
+HAN0025,3042323,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,3,1
+HAN0098,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0106,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,2
+HAN0026,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,2
+HAN0001,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0133,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,2,3
+HAN0132,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0027,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0099,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0064,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,3
+HAN0002,3117758,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0122,3374720,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0020,3458396,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0100,3715078,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0028,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0107,3807193,"Hà Nội (HAN)
+Sân bay Nội Bài",7,20,130,2,4
+HAN0065,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0123,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0053,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0004,2783572,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0023,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0031,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,5
+HAN0054,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0102,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0124,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0021,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0048,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,6
+HAN0006,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0067,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0115,2159075,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0033,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0103,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,7
+HAN0068,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0034,2850675,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0007,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0024,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0096,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0125,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,0,8
+HAN0008,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0116,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0035,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0069,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0104,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,9
+HAN0126,2149200,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0056,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0070,2390587,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0036,2609885,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,10
+HAN0117,2622099,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0010,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0037,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0071,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HAN0105,2852590,"Hà Nội (HAN)
+Sân bay Nội Bài",7,0,130,1,11
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,24
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,20
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,19
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,18
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,17
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,16
+HPH0001,2169925,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,15
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,14
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,13
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,12
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,11
+HPH0001,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,10
+HPH0001,2317999,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,9
+HPH0001,2317999,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,8
+HPH0001,2668833,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,7
+HPH0001,2742444,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,5
+HPH0001,2742444,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,4
+HPH0001,2742444,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,3,3
+HPH0001,3458396,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,3,2
+HPH0001,3692445,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,3,1
+HPH0002,3458396,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,2
+HPH0002,3807193,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,1
+HPH0002,2756225,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,26
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,20
+HPH0002,3088325,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,19
+HPH0002,3088325,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,18
+HPH0002,3088325,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,17
+HPH0002,3088325,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,16
+HPH0002,3088325,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,15
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,14
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,13
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,12
+HPH0002,3035259,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,11
+HPH0002,3035259,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,10
+HPH0002,2668833,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,9
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,8
+HPH0002,3458396,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,7
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,6
+HPH0002,3458396,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,5
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,4
+HPH0002,3072883,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,20,125,2,3
+HPH0003,2346732,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,4
+HPH0003,2346732,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,3
+HPH0003,2522151,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,2
+HPH0003,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,28
+HPH0003,1948525,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,20
+HPH0003,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,19
+HPH0003,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,18
+HPH0003,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,17
+HPH0003,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,16
+HPH0003,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,15
+HPH0003,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,14
+HPH0003,1784083,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,13
+HPH0003,1915044,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,12
+HPH0003,1886743,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,11
+HPH0003,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,10
+HPH0003,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,9
+HPH0003,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,8
+HPH0003,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,7
+HPH0003,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,6
+HPH0003,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,5
+HPH0004,1553270,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,6
+HPH0004,1553270,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,5
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,4
+HPH0004,1664423,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,3
+HPH0004,1886743,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,2
+HPH0004,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,1
+HPH0004,1671775,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,30
+HPH0004,1671775,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,20
+HPH0004,1671775,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,19
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,18
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,17
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,16
+HPH0004,1559436,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,15
+HPH0004,1559436,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,14
+HPH0004,1536390,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,13
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,12
+HPH0004,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,11
+HPH0004,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,10
+HPH0004,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,9
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,8
+HPH0004,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,7
+HPH0005,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,8
+HPH0005,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,7
+HPH0005,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,6
+HPH0005,1664423,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,5
+HPH0005,1664423,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,4
+HPH0005,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,3
+HPH0005,1671775,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,32
+HPH0005,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,2
+HPH0005,2286251,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,1
+HPH0005,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,20
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,19
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,18
+HPH0005,1702155,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,17
+HPH0005,1677000,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,16
+HPH0005,1677000,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,15
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,14
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,13
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,12
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,11
+HPH0005,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,10
+HPH0005,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,9
+HPH0006,1553270,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,10
+HPH0006,1553270,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,9
+HPH0006,1553270,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,8
+HPH0006,1536390,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,7
+HPH0006,1437140,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,6
+HPH0006,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,5
+HPH0006,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,34
+HPH0006,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,4
+HPH0006,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,3
+HPH0006,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,2
+HPH0006,2346732,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,1
+HPH0006,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,20
+HPH0006,1559436,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,19
+HPH0006,1677000,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,18
+HPH0006,1677000,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,17
+HPH0006,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,15
+HPH0006,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,14
+HPH0006,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,11
+HPH0007,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,14
+HPH0007,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,13
+HPH0007,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,12
+HPH0007,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,11
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,10
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,9
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,8
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,7
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,6
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,4
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,3
+HPH0007,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,2
+HPH0007,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,1
+HPH0008,1561075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,16
+HPH0008,1671775,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,15
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,14
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,13
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,12
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,11
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,10
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,9
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,8
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,7
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,6
+HPH0008,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,5
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,4
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,3
+HPH0008,1663416,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,2
+HPH0008,2104168,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,1
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,18
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,17
+HPH0009,1948525,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,16
+HPH0009,1948525,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,15
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,14
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,13
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,12
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,11
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,10
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,9
+HPH0009,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,8
+HPH0009,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,7
+HPH0009,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,6
+HPH0009,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,5
+HPH0009,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,4
+HPH0009,2132639,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,3
+HPH0009,2132639,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,2
+HPH0009,2283743,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,1
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,20
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,19
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,18
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,17
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,16
+HPH0010,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,15
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,14
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,13
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,12
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,11
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,10
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,9
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,8
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,7
+HPH0010,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,6
+HPH0010,1689389,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,5
+HPH0010,1689389,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,4
+HPH0010,1886743,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,3
+HPH0010,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,2
+HPH0010,2159075,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,1,1
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,21
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,20
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,19
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,18
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,17
+HPH0011,1815275,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,16
+HPH0011,1948525,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,15
+HPH0011,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,14
+HPH0011,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,13
+HPH0011,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,11
+HPH0011,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,10
+HPH0011,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,9
+HPH0011,1806199,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,8
+HPH0011,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,7
+HPH0011,1915044,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,6
+HPH0011,1915044,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,5
+HPH0011,1886743,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,4
+HPH0011,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,3
+HPH0011,1938782,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,2
+HPH0011,2292738,"Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",7,0,125,0,1
+DLI0001,1740927,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,20
+DLI0001,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,19
+DLI0001,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,18
+DLI0001,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,17
+DLI0001,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,16
+DLI0001,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,15
+DLI0001,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,14
+DLI0001,1545332,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,8
+DLI0001,1436148,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,7
+DLI0001,1475759,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,6
+DLI0002,1572350,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,20
+DLI0002,1572350,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,19
+DLI0002,1483175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,18
+DLI0002,1483175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,17
+DLI0002,1383750,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,16
+DLI0002,1383750,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,15
+DLI0002,1172143,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,9
+DLI0002,761248,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,8
+DLI0002,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,7
+DLI0003,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,20
+DLI0003,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,19
+DLI0003,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,18
+DLI0003,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,17
+DLI0003,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,16
+DLI0003,1116639,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,10
+DLI0003,761248,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,9
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,8
+DLI0004,874325,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,20
+DLI0004,952225,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,19
+DLI0004,874325,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,17
+DLI0004,935863,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,11
+DLI0004,761248,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,10
+DLI0004,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,9
+DLI0005,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,20
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,19
+DLI0005,1028543,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,13
+DLI0005,747353,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,12
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,11
+DLI0006,1088986,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,15
+DLI0006,747353,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,14
+DLI0006,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,13
+DLI0007,1088986,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,17
+DLI0007,1072893,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,16
+DLI0007,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,15
+DLI0008,1085475,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,15
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,14
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,13
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,12
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,11
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,10
+DLI0008,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,9
+DLI0008,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,8
+DLI0008,932152,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,7
+DLI0008,975450,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,6
+DLI0008,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,5
+DLI0009,1217700,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,17
+DLI0009,1217700,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,16
+DLI0009,1085475,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,15
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,14
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,13
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,12
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,11
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,10
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,9
+DLI0009,1111950,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,8
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,7
+DLI0013,1001343,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,1
+DLI0010,1217700,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,19
+DLI0010,1217700,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,18
+DLI0010,1085475,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,17
+DLI0010,1085475,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,16
+DLI0010,1085475,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,15
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,14
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,13
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,12
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,11
+DLI0010,1111950,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,10
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,9
+DLI0010,1262257,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,3
+DLI0010,1132443,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,2
+DLI0010,1277903,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,1
+DLI0011,1837825,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,20
+DLI0011,1837825,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,19
+DLI0011,1944425,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,18
+DLI0011,1944425,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,17
+DLI0011,1837825,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,16
+DLI0011,1828636,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,15
+DLI0011,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,14
+DLI0011,1882650,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,13
+DLI0011,1828636,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,12
+DLI0011,1779553,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,5
+DLI0011,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,4
+DLI0012,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,20
+DLI0012,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,19
+DLI0012,1749675,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,18
+DLI0012,1740927,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,17
+DLI0012,1740927,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,16
+DLI0012,1740927,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,15
+DLI0012,1792350,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,14
+DLI0012,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,13
+DLI0012,1359973,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,7
+DLI0012,1522495,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,6
+DLI0012,1652198,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,5
+DLI0002,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,1
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,2
+DLI0004,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,3
+DLI0005,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,5
+DLI0006,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,7
+DLI0007,829158,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,9
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,1
+DLI0004,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,2
+DLI0005,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,4
+DLI0006,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,6
+DLI0007,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,8
+DLI0004,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,1
+DLI0005,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,3
+DLI0006,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,5
+DLI0007,754708,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,7
+DLI0005,734450,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,2
+DLI0006,734450,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,4
+DLI0007,734450,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,6
+DLI0005,907145,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,1
+DLI0006,826753,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,3
+DLI0007,826753,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,5
+DLI0006,1376831,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,1
+DLI0007,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,3
+DLI0007,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,2
+DLI0007,1211612,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,1
+DLI0001,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,13
+DLI0002,1376831,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,14
+DLI0003,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,15
+DLI0004,874325,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,16
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,18
+DLI0006,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,20
+DLI0008,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,4
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,6
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,8
+DLI0011,1828636,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,11
+DLI0012,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,12
+DLI0001,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,12
+DLI0002,1211612,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,13
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,14
+DLI0004,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,15
+DLI0005,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,17
+DLI0006,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,19
+DLI0008,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,3
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,5
+DLI0011,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,10
+DLI0012,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,11
+DLI0001,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,11
+DLI0002,1211612,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,12
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,13
+DLI0004,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,14
+DLI0005,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,16
+DLI0006,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,18
+DLI0007,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,20
+DLI0008,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,2
+DLI0009,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,4
+DLI0010,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,6
+DLI0011,1828636,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,9
+DLI0012,1564488,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,10
+DLI0001,1475759,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,10
+DLI0002,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,11
+DLI0003,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,12
+DLI0004,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,13
+DLI0005,786175,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,15
+DLI0006,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,17
+DLI0007,1151075,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,19
+DLI0008,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,1
+DLI0009,1013756,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,3
+DLI0010,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,5
+DLI0011,1828636,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,8
+DLI0012,1475759,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,9
+DLI0001,1359973,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,9
+DLI0002,1066823,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,10
+DLI0003,772666,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,11
+DLI0004,935863,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,12
+DLI0005,1028543,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,14
+DLI0006,1088986,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,16
+DLI0007,1097215,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,18
+DLI0013,1088986,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,2
+DLI0010,1262257,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,4
+DLI0011,1911014,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,7
+DLI0012,1359973,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,8
+DLI0001,1277903,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,5
+DLI0002,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,6
+DLI0003,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,7
+DLI0004,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,8
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,10
+DLI0006,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,12
+DLI0007,1211612,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,14
+DLI0011,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,3
+DLI0012,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,4
+DLI0001,1277903,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,4
+DLI0002,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,5
+DLI0003,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,6
+DLI0004,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,7
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,9
+DLI0006,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,11
+DLI0007,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,13
+DLI0011,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,2,2
+DLI0012,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,3
+DLI0001,1277903,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,3
+DLI0002,1013756,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,4
+DLI0003,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,5
+DLI0004,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,6
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,8
+DLI0006,869953,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,10
+DLI0007,1145320,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,12
+DLI0012,1917365,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,2
+DLI0001,1376831,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,2
+DLI0002,1041765,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,3
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,4
+DLI0004,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,5
+DLI0005,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,7
+DLI0006,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,9
+DLI0007,1080048,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,11
+DLI0012,1934703,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,20,55,3,1
+DLI0001,1376831,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,3,1
+DLI0002,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,2
+DLI0003,782244,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,3
+DLI0004,947464,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,2,4
+DLI0005,829158,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,6
+DLI0006,829158,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,0,8
+DLI0007,1007637,"Đà Lạt (DLI)
+Sân bay Liên Khương",7,0,55,1,10
