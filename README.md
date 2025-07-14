@@ -7,24 +7,24 @@ _Đồ án môn học DS108 - Thu thập và tiền xử lý dữ liệu_
 # AIRSCIENCE: Phân Tích Dữ Liệu Ngành Hàng Không
 
 ## Mục lục
-- [Tổng quan](#tổng-quan)
-- [Tính năng](#tính-năng)
-- [Bộ Dữ Liệu](#bộ-dữ-liệu)
-- [Yêu cầu cài đặt](#yêu-cầu-cài-đặt)
-- [Thực thi](#thực-thi)
-- [Tài Liệu Liên Quan](#tài-liệu-liên-quan)
-- [Thành viên](#thành-viên)
+- [1. Tổng quan](#1-tổng-quan)
+- [2. Tính năng](#2-tính-năng)
+- [3. Bộ Dữ Liệu](#2-bộ-dữ-liệu)
+- [4. Cấu Trúc Dự Án](#4-cấu-trúc-dự-án)
+- [4. Thực thi](#4-thực-thi)
+- [5. Tài Liệu Liên Quan](#5-tài-liệu-liên-quan)
+- [6. Thành viên](#6-thành-viên)
 
-## Tổng quan
+## 1. Tổng quan
 Nhóm nghiên cứu đã tiến hành thu thập và phân tích dữ liệu vé máy bay, sau đó ứng dụng các kỹ thuật học máy để xây dựng một hệ thống dự đoán giá vé theo thời gian. Mục tiêu của hệ thống này là đưa ra khuyến nghị về thời điểm mua vé tối ưu, nhằm hỗ trợ khách hàng đưa ra quyết định thông minh và tiết kiệm chi phí.
 
-## Tính năng
+## 2. Tính năng
 - Phân tích dữ liệu thông qua khai phá mối quan hệ giữa giá vé với các thuộc tính khác để đưa ra những quy luật ẩn
 - Sử dụng các mô hình học máy, đưa ra khuyến nghị về thời điểm đặt vé tối ưu nhất cho chuyến bay
 - Dữ liệu đầu vào là các thuộc tính cơ bản của một vé máy bay và đầu ra sẽ là giá vé dự đoán để đưa ra được thời điểm đặt vé hợp lý và khuyến nghị nên mua hay chờ.
 - Website demo đưa khuyến nghị hỗ trợ người dùng chọn đúng thời điểm đặt vé với chi phí, ngân sách phù hợp ở thị trường Việt Nam
 
-## Bộ Dữ Liệu
+## 3. Bộ Dữ Liệu
 
 Dữ liệu được lưu theo cấu trúc phân tầng - Medallion Structure
 
@@ -59,7 +59,7 @@ Dữ liệu thô thu thập từ trang web Traveloka, bao gồm:
 ### Gold Layer
 Dữ liệu đã chuẩn hóa và phân loại theo từng hãng hàng không, sẵn sàng phân tích.
 
-## Cấu Trúc Dự Án
+## 4. Cấu Trúc Dự Án
 ```bash
 .
 ├── Data
@@ -80,17 +80,17 @@ Dữ liệu đã chuẩn hóa và phân loại theo từng hãng hàng không, s
 ├── 05_web_demo                       # Demo website tương tác với người dùng
 ├── README.md                         # File mô tả dự án
 ```
-## Thực thi
-### 1. Thu thập dữ liệu:
+## 5. Thực thi
+### Thu thập dữ liệu:
 - Sử dụng tool Selenium và kết hợp MicrosoftEdge website.
 - Nhược điểm: chưa hoàn toàn tự động hóa do gặp chặn Captcha của Traveloka.
 
-### 2. Khai phá dữ liệu:
+### Khai phá dữ liệu:
 Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. Đồng thời, nhóm quyết định chia dữ liệu theo hãng bay thay vì theo địa điểm đến hay các yếu tố khác. 
     ![alt text](visualization/image-0.png)
     ![alt text](visualization/image-1.png)
 
-### 3. Huấn luyện mô hình:
+### Huấn luyện mô hình:
 - Chia dữ liệu:
     - `Test_data`: 40 id
     - `Train + Test`:
@@ -128,15 +128,15 @@ Từ kết quả EDA, nhóm cần cẩn trọng trong cách xử lý outliers. �
     - Hình bên phải: Khi giá vé bé hơn ngưỡng, khuyến nghị mô hình đưa ra là nên mua (label = 1).
     ![alt text](visualization/image-3.png)
 
-### 4. Chạy web thử nghiệm:
+### Chạy web thử nghiệm:
 ![alt text](visualization/image-4.png)
 ![alt text](visualization/image-5.png)
 
-## Tài Liệu Liên Quan
+## 6. Tài Liệu Liên Quan
 - Báo cáo chi tiết: [(paper.pdf)](paper.pdf)  
 - Slide thuyết trình: [(slides.pdf)](slides.pdf)
 
-## Thành viên
+## 7. Thành viên
 | Họ và tên              | MSSV       |
 |------------------------|------------|
 | Đinh Bảo Thy           | 23521563   |
