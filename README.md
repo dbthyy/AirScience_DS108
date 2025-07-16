@@ -2,11 +2,6 @@ _Đồ án môn học DS108 - Thu thập và tiền xử lý dữ liệu_
 # AIRSCIENCE: Phân Tích Dữ Liệu Ngành Hàng Không
 
 ## Mục lục
-_Đồ án môn học DS108 - Thu thập và tiền xử lý dữ liệu_
-
-# AIRSCIENCE: Phân Tích Dữ Liệu Ngành Hàng Không
-
-## Mục lục
 - [1. Tổng Quan](#1-tổng-quan)
 - [2. Tính Năng](#2-tính-năng)
 - [3. Bộ Dữ Liệu](#2-bộ-dữ-liệu)
